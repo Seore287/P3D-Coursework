@@ -46,8 +46,8 @@ What are the major challenges or obstacles the player will face in the game?
 
 If there is a branching narrative, what are the major points where the player has a choice to make? What are the implications of the choices made? Are there different endings to the game depending on the choices made?
 
-### Game Characters
-## Player Characters
+## Game Characters
+### Player Characters
 <b>Main Character:</b> Rex Luminar
 
 Appearance <br>
