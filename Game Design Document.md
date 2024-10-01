@@ -7,7 +7,6 @@ This is a 3D plaatformer open world game set in the magical world of Lumina. Pla
 The game combines fast paced platforming with a rich storyline and intricate challenges. Players will explore open world, diverse realms utilizing unique abilities.
 
 ### ​Genre/Theme
-
 This is a 3D action-adventure platforming game that also features some puzzle solving.
 
 ### Platform
@@ -15,7 +14,6 @@ PC (Windows, macOS)
 Console (Playstation, Xbox)
 
 ### ​Target Audience
-
 Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
 
 ## Narrative
@@ -29,12 +27,9 @@ The main character embarks on a quest to save Lumina from the encroaching darkne
 - Ratchet and Clank
 
 ### ​Distinctive Features
-
 What makes this game different from other games?
 
-
 ### ​Choice points
-
 If there is a branching narrative, what are the major points where the player has a choice to make? What are the implications of the choices made? Are there different endings to the game depending on the choices made?
 
 ## Game Characters
@@ -46,12 +41,12 @@ Appearance:
 - Eyes: large, expressive eyes with a bright neon-green colour, slightly glowing.
 - Hair: short, spiky hair with a vibrant, electric blue colour.
 
-## Enemies
+### Enemies
 - Shadow Beasts: larger, slower enemies with heavy attacks and high health.
 - Spectral Bats: flying enemies that swoop down to attack from above.
 - Voidlings: small, agile creatures that swarm and attack in groups.
 
-## Allies
+### Allies
 - Elder Lyra: a wise sage in the Sparkling Peaks who provides guidance and lore about Lumina’s history.
 - The Botanist: a knowledgeable explorer in the Luminous Jungle, who assists Rex and provides insights into the flora and fauna.
 - Orin the Miner: a rugged, resourceful NPC in the Radiant Abyss who helps Rex navigate the treacherous underground terrain.
