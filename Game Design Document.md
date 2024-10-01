@@ -14,17 +14,22 @@ This is a 3D action-adventure platforming game that also features some puzzle so
 PC (Windows, macOS)
 Console (Playstation, Xbox)
 
-### ​Graphical Perspective
-
-Explain player perspective: first-person, third-person, top-down, mixed?
-
-Your work on Programming for 3D should include a third-person perspective.
-
 ### ​Target Audience
 
-Ages 10+
-Platformer enthusiasts
-Fans of adventure and fantasy games
+Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
+
+## Narrative
+## ​The Storyline
+<b>Introduction<b>
+Below are the premise, narrative, missions and choice points underpinning the game.
+
+### ​The Premise
+
+What is the situation before the game starts? What does the player need to know to understand the fantasy context in which the game takes place?
+
+### ​In-game Narrative
+
+How does the story move along during the game? What is the player trying to achieve, and what are the major events that take place between the start and end?
 
 ### ​Game Influences
 
@@ -38,17 +43,8 @@ What are the player's main goals, and how can they be achieved?
 
 What makes this game different from other games?
 
-## ​The Story
 
-Below are the premise, narrative, missions and choice points underpinning the game.
 
-### ​The Premise
-
-What is the situation before the game starts? What does the player need to know to understand the fantasy context in which the game takes place?
-
-### ​In-game Narrative
-
-How does the story move along during the game? What is the player trying to achieve, and what are the major events that take place between the start and end?
 
 ### ​Missions/Challenges
 
