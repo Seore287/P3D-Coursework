@@ -19,8 +19,8 @@ Console (Playstation, Xbox)
 Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
 
 ## Narrative
-## ​The Storyline
-<b>Introduction<b>
+###  ​The Storyline
+<b>Introduction</b>
 Below are the premise, narrative, missions and choice points underpinning the game.
 
 ### ​The Premise
