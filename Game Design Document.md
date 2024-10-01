@@ -72,19 +72,69 @@ Powers and Abilities <br>
 <b>The Botanist:</b> a knowledgeable explorer in the Luminous Jungle, who assists Rex and provides insights into the flora and fauna.<br>
 <b>Orin the Miner:</b> a rugged, resourceful NPC in the Radiant Abyss who helps Rex navigate the treacherous underground terrain.
 
-## ​Environment
-
-Below is the structure and levels of the game.
-
+## Gameplay Mechanics
 ### ​Game Structure
+The game takes place across five realms within the game world, each with distinctive visuals and gameplay elements:<br>
+<b>Sparkling Peaks:</b> Icy slopes, slippery surfaces, and crystaline caves filled with environmental hazards like falling icicles and strong winds.<br>
+<b>Radiant Abyss:</b> An underground realm with phosphorescent crystals, floating platforms, and gravity-defying puzzles.<br>
+<b>Luminous Jungle:</b> A dense rainforest with bioluminscent flora and hidden paths.<br>
+<b>Shimmering Desert:</b> A vast desert with ancient ruins.<br>
 
-How many environments/levels does the game take place over? What are the key puzzles/enemies/ obstacles to be overcome?
-
-For Programming for 3D, keep the structure simple - aim for a single level during the lab sessions. However, you might be required to expand on that level later, so you should keep that in mind.
+### Controls
+Movement: WASD / Left Stick<br>
+Jump: Space / A button<br>
+Trail Dash: Shift / B button<br>
+Light Leap: E / X button<br>
+Prism Shield: Z / Y button<br>
+Energy Boost: B / r1 button<br>
+Phantom Pulse: K / L1 button<br>
+Interact: F / X button<br>
+Camera Control: Mouse / Right Stick
 
 ### ​Levels and Locations
+1. **Sparkling Peaks**
+   - **Theme**: Icy, crystalline environment.
+   - **Features**: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Rex's **Trail Dash** ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
+   
+2. **Radiant Abyss**
+   - **Theme**: Underground caverns illuminated by phosphorescent crystals.
+   - **Features**: Floating platforms, gravity-defying puzzles, and energy currents challenge the player's spatial awareness. This level incorporates Rex's **Phantom Pulse** ability to interact with glowing crystals, activate switches, and defeat enemies. The cavernous environment is dark and mysterious, with the glow of the crystals guiding players through the labyrinthine paths.
 
-Describe the key levels/locations and their themes/features.
+3. **Luminous Jungle**
+   - **Theme**: A dense, bioluminescent rainforest.
+   - **Features**: This level features vibrant flora and fauna that glow in the dark. Players must explore the jungle's secret pathways, solve light-based puzzles, and interact with the environment to progress. The jungle also holds hidden ancient tablets that provide insights into Lumina’s past.
+
+4. **Shimmering Desert**
+   - **Theme**: A vast, ancient desert filled with ruins.
+   - **Features**: This level challenges players with shifting sands, hidden temples, and ancient traps. Players must navigate through treacherous desert landscapes and solve puzzles tied to the ruins' ancient mechanisms.
+
+5. **Celestial Oasis**
+   - **Theme**: A mystical sanctuary with celestial bodies.
+   - **Features**: The Celestial Oasis is a serene, dreamlike location with floating islands and cosmic energy flows. The level's design emphasizes platforming challenges that test the player's mastery of Rex's abilities in a tranquil yet surreal environment.
+
+Each realm offers distinct visual styles and mechanics that reflect the theme of the environment, providing players with a variety of gameplay experiences across different terrains【5†source】.
+
+### ​Mechanics
+
+What are the core game mechanics? What will the player do to solve the main obstacles in the game?
+
+### ​Movement
+
+How does the player move around the game world? Does this change or alter at any point?
+
+### ​Weapons
+
+Does your game have weapons? If so, what kinds are used? How are they used? How does ammunition work? Are there upgrades? etc.?
+
+### ​Inventory
+
+Is there an inventory system? If so, how does it work and how is it accessed?
+
+
+
+
+
+
 
 ## Sound
 
@@ -97,30 +147,6 @@ Diegetic sound emanates directly from the action within the game; hence, it's so
 ### Non-diegetic
 
 Non-diegetic sound is audio that does not emanate directly from the action. It is used to create exaggerated effects that add to the drama.
-
-## ​Gameplay
-
-Below are the main gameplay elements.
-
-### ​Mechanics
-
-What are the core game mechanics? What will the player do to solve the main obstacles in the game?
-
-### ​Movement
-
-How does the player move around the game world? Does this change or alter at any point?
-
-### ​Controls
-
-What external hardware is required to play the game, and how does this map to the game controls?
-
-### ​Weapons
-
-Does your game have weapons? If so, what kinds are used? How are they used? How does ammunition work? Are there upgrades? etc.?
-
-### ​Inventory
-
-Is there an inventory system? If so, how does it work and how is it accessed?
 
 ## Graphical User Interface
 
