@@ -45,15 +45,11 @@ What are the major challenges or obstacles the player will face in the game?
 
 If there is a branching narrative, what are the major points where the player has a choice to make? What are the implications of the choices made? Are there different endings to the game depending on the choices made?
 
-## Characters
-
-The player characters, enemies, and allies are described below.
-
-### Player Characters
+## Player Characters
 Main Character: Rex Luminar
 
 Appearance
-•	Head: Rounded head with a slightly angular jawline.
+•	<b>Head:</b> Rounded head with a slightly angular jawline.
 •	Eyes: Large, expressive eyes with a bright neon-green colour, slightly glowing.
 •	Hair: Short, spiky hair with a vibrant, electric blue colour.
 
