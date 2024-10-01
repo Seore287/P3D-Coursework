@@ -6,15 +6,13 @@ This is a 3D plaatformer open world game set in the magical world of Lumina. Pla
 ### Concept
 The game combines fast paced platforming with a rich storyline and intricate challenges. Players will explore open world, diverse realms utilizing unique abilities.
 
-### ​Pitch
-
-Start with a one-sentence pitch for your game.
-
 ### ​Genre/Theme
 
-This is an action-adventure 
+This is a 3D action-adventure platforming game that also features some puzzle solving.
 
-Explain the primary genre for your game: Role-playing, Strategy, Sports, Adventure, Action, Simulation, Puzzle, Management, or something else entirely? What is the central theme/ setting of the game?
+### Platform
+PC (Windows, macOS)
+Console (Playstation, Xbox)
 
 ### ​Graphical Perspective
 
