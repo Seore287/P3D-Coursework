@@ -20,8 +20,7 @@ Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
 
 ## Narrative
 ###  ​The Storyline
-<b>Introduction</b>//
-Below are the premise, narrative, missions and choice points underpinning the game.
+The main character embarks on a quest to save Lumina from the encroaching darkness of the Void Weaver. Guided by his grandfather Arion, Rex must travel through distinct realms, learning about his elemental powers and restoring light to Lumina.
 
 ### ​The Premise
 
