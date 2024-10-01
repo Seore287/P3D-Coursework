@@ -23,6 +23,7 @@ Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
 The main character embarks on a quest to save Lumina from the encroaching darkness of the Void Weaver. Guided by his grandfather Arion, Rex must travel through distinct realms, learning about his elemental powers and restoring light to Lumina.
 
 ### ​Game Influences
+The games that influenced 
 
 State the key game influences, including other games, books, films, TV, etc.
 
@@ -45,30 +46,31 @@ What are the major challenges or obstacles the player will face in the game?
 
 If there is a branching narrative, what are the major points where the player has a choice to make? What are the implications of the choices made? Are there different endings to the game depending on the choices made?
 
+### Game Characters
 ## Player Characters
-Main Character: Rex Luminar
+<b>Main Character:</b> Rex Luminar
 
 Appearance <br>
 <b>Head:</b> Rounded head with a slightly angular jawline.<br>
 <b>Eyes:</b> Large, expressive eyes with a bright neon-green colour, slightly glowing.<br>
 <b>Hair:</b> Short, spiky hair with a vibrant, electric blue colour.
 
-Powers and Abilities
-•	Trail Dash: a high-speed dash that allows Rex to quickly traverse large gaps and evade hazards. Essential for maintaining momentum on slippery surfaces.
-•	Light Leap: a charged jump that enables Rex to reach higher platforms and clear obstacles. Requires precise timing for maximum effect.
-•	Shield: a temporary barrier that deflects attacks and reflects projectiles. Activated to protect against enemy fire and environmental hazards.
-•	Energy Boost: temporarily enhances Rex’s abilities, making him stronger and faster. Activated by collecting energy orbs.
-•	Phantom Pulse: An energy wave used to interact with the environment, activate switches, and stun enemies. 
+Powers and Abilities <br>
+<b>Trail Dash:</b> a high-speed dash that allows Rex to quickly traverse large gaps and evade hazards. Essential for maintaining momentum on slippery surfaces.<br>
+<b>Light Leap:</b> a charged jump that enables Rex to reach higher platforms and clear obstacles. Requires precise timing for maximum effect.<br>
+<b>Shield:</b> a temporary barrier that deflects attacks and reflects projectiles. Activated to protect against enemy fire and environmental hazards.<br>
+<b>Energy Boost:</b> temporarily enhances Rex’s abilities, making him stronger and faster. Activated by collecting energy orbs.<br>
+<b>Phantom Pulse:</b> An energy wave used to interact with the environment, activate switches, and stun enemies. 
 
-### Enemies
-•	Shadow Beasts: Larger, slower enemies with heavy attacks and high health.
-•	Spectral Bats: Flying enemies that swoop down to attack from above.
-•	Voidlings: Small, agile creatures that swarm and attack in groups.
+## Enemies
+<b>Shadow Beasts:</b> Larger, slower enemies with heavy attacks and high health.<br>
+<b>Spectral Bats:</b> Flying enemies that swoop down to attack from above.<br>
+<b>Voidlings:</b> Small, agile creatures that swarm and attack in groups.
 
-### Allies
-•	Elder Lyra: a wise sage in the Sparkling Peaks who provides guidance and lore about Lumina’s history.
-•	Zara the Botanist: a knowledgeable explorer in the Luminous Jungle, who assists Rex and provides insights into the flora and fauna.
-•	Orin the Miner: a rugged, resourceful NPC in the Radiant Abyss who helps Rex navigate the treacherous underground terrain.
+## Allies
+<b>Elder Lyra:</b> a wise sage in the Sparkling Peaks who provides guidance and lore about Lumina’s history.<br>
+<b>The Botanist:</b> a knowledgeable explorer in the Luminous Jungle, who assists Rex and provides insights into the flora and fauna.<br>
+<b>Orin the Miner:</b> a rugged, resourceful NPC in the Radiant Abyss who helps Rex navigate the treacherous underground terrain.
 
 ## ​Environment
 
