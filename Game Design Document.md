@@ -48,7 +48,7 @@ If there is a branching narrative, what are the major points where the player ha
 ## Player Characters
 Main Character: Rex Luminar
 
-Appearance
+Appearance <br>
 •	<b>Head:</b> Rounded head with a slightly angular jawline.
 •	Eyes: Large, expressive eyes with a bright neon-green colour, slightly glowing.
 •	Hair: Short, spiky hair with a vibrant, electric blue colour.
