@@ -27,20 +27,10 @@ The games that influenced
 
 State the key game influences, including other games, books, films, TV, etc.
 
-### ​Player Objectives
-
-What are the player's main goals, and how can they be achieved?
-
 ### ​Distinctive Features
 
 What makes this game different from other games?
 
-
-
-
-### ​Missions/Challenges
-
-What are the major challenges or obstacles the player will face in the game?
 
 ### ​Choice points
 
@@ -48,19 +38,19 @@ If there is a branching narrative, what are the major points where the player ha
 
 ## Game Characters
 ### Player Characters
-<b>Main Character:</b> Rex Luminar
+Main Character: Rex Luminar
 
-Appearance <br>
-<b>Head:</b> Rounded head with a slightly angular jawline.<br>
-<b>Eyes:</b> Large, expressive eyes with a bright neon-green colour, slightly glowing.<br>
-<b>Hair:</b> Short, spiky hair with a vibrant, electric blue colour.
+Appearance: <br>
+- Head: rounded head with a slightly angular jawline.
+- Eyes: large, expressive eyes with a bright neon-green colour, slightly glowing.
+- Hair: short, spiky hair with a vibrant, electric blue colour.
 
-Powers and Abilities <br>
-<b>Trail Dash:</b> a high-speed dash that allows Rex to quickly traverse large gaps and evade hazards. Essential for maintaining momentum on slippery surfaces.<br>
-<b>Light Leap:</b> a charged jump that enables Rex to reach higher platforms and clear obstacles. Requires precise timing for maximum effect.<br>
-<b>Shield:</b> a temporary barrier that deflects attacks and reflects projectiles. Activated to protect against enemy fire and environmental hazards.<br>
-<b>Energy Boost:</b> temporarily enhances Rex’s abilities, making him stronger and faster. Activated by collecting energy orbs.<br>
-<b>Phantom Pulse:</b> An energy wave used to interact with the environment, activate switches, and stun enemies. 
+Powers and Abilities: <br>
+- Trail Dash: a high-speed dash that allows Rex to quickly traverse large gaps and evade hazards. Essential for maintaining momentum on slippery surfaces.<br>
+- Light Leap: a charged jump that enables Rex to reach higher platforms and clear obstacles. Requires precise timing for maximum effect.<br>
+- Shield: a temporary barrier that deflects attacks and reflects projectiles. Activated to protect against enemy fire and environmental hazards.<br>
+- Energy Boost: temporarily enhances Rex’s abilities, making him stronger and faster. Activated by collecting energy orbs.<br>
+- Phantom Pulse: an energy wave used to interact with the environment, activate switches, and stun enemies. 
 
 ## Enemies
 <b>Shadow Beasts:</b> Larger, slower enemies with heavy attacks and high health.<br>
@@ -92,9 +82,9 @@ Interact: F / X button<br>
 Camera Control: Mouse / Right Stick
 
 ### ​Levels and Locations
-1. **Sparkling Peaks**
-   - **Theme**: Icy, crystalline environment.
-   - **Features**: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Rex's **Trail Dash** ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
+1. Sparkling Peaks
+   - Theme: Icy, crystalline environment.
+   - Features: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Rex's 'Trail Dash' ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
    
 2. Radiant Abyss
    - Theme: Underground caverns illuminated by phosphorescent crystals.
