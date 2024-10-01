@@ -96,23 +96,21 @@ Camera Control: Mouse / Right Stick
    - **Theme**: Icy, crystalline environment.
    - **Features**: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Rex's **Trail Dash** ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
    
-2. **Radiant Abyss**
-   - **Theme**: Underground caverns illuminated by phosphorescent crystals.
-   - **Features**: Floating platforms, gravity-defying puzzles, and energy currents challenge the player's spatial awareness. This level incorporates Rex's **Phantom Pulse** ability to interact with glowing crystals, activate switches, and defeat enemies. The cavernous environment is dark and mysterious, with the glow of the crystals guiding players through the labyrinthine paths.
+2. Radiant Abyss
+   - Theme: Underground caverns illuminated by phosphorescent crystals.
+   - Features: Floating platforms, gravity-defying puzzles, and energy currents challenge the player's spatial awareness. This level incorporates Rex's Phantom Pulse ability to interact with glowing crystals, activate switches, and defeat enemies. The cavernous environment is dark and mysterious, with the glow of the crystals guiding players through the labyrinthine paths.
 
-3. **Luminous Jungle**
-   - **Theme**: A dense, bioluminescent rainforest.
-   - **Features**: This level features vibrant flora and fauna that glow in the dark. Players must explore the jungle's secret pathways, solve light-based puzzles, and interact with the environment to progress. The jungle also holds hidden ancient tablets that provide insights into Lumina’s past.
+3. Luminous Jungle
+   - Theme: A dense, bioluminescent rainforest.
+   - Features: This level features vibrant flora and fauna that glow in the dark. Players must explore the jungle's secret pathways, solve light-based puzzles, and interact with the environment to progress. The jungle also holds hidden ancient tablets that provide insights into Lumina’s past.
 
-4. **Shimmering Desert**
-   - **Theme**: A vast, ancient desert filled with ruins.
-   - **Features**: This level challenges players with shifting sands, hidden temples, and ancient traps. Players must navigate through treacherous desert landscapes and solve puzzles tied to the ruins' ancient mechanisms.
+4. Shimmering Desert
+   - Theme: A vast, ancient desert filled with ruins.
+   - Features: This level challenges players with shifting sands, hidden temples, and ancient traps. Players must navigate through treacherous desert landscapes and solve puzzles tied to the ruins' ancient mechanisms.
 
-5. **Celestial Oasis**
-   - **Theme**: A mystical sanctuary with celestial bodies.
-   - **Features**: The Celestial Oasis is a serene, dreamlike location with floating islands and cosmic energy flows. The level's design emphasizes platforming challenges that test the player's mastery of Rex's abilities in a tranquil yet surreal environment.
-
-Each realm offers distinct visual styles and mechanics that reflect the theme of the environment, providing players with a variety of gameplay experiences across different terrains【5†source】.
+5. Celestial Oasis
+   - Theme: A mystical sanctuary with celestial bodies.
+   - Features: The Celestial Oasis is a serene, dreamlike location with floating islands and cosmic energy flows. The level's design emphasizes platforming challenges that test the player's mastery of Rex's abilities in a tranquil yet surreal environment.
 
 ### ​Mechanics
 
