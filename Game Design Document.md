@@ -3,7 +3,7 @@
 This is a 3D plaatformer open world game set in the magical world of Lumina. Players gain control of Rex Luminar, a Trailblazer Explorer, on a quest to restore balance by defeating the invincible Void Weaver. The game features vibrant environments, dynamic powers, and engaging narrative elements that blend exploration and combat.
 
 ## Game Overview
-## Concept
+### Concept
 The game combines fast paced platforming with a rich storyline and intricate challenges. Players will explore open world, diverse realms utilizing unique abilities.
 
 ### ​Pitch
