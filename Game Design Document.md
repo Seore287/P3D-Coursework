@@ -49,9 +49,9 @@ If there is a branching narrative, what are the major points where the player ha
 Main Character: Rex Luminar
 
 Appearance <br>
-•	<b>Head:</b> Rounded head with a slightly angular jawline.
-•	Eyes: Large, expressive eyes with a bright neon-green colour, slightly glowing.
-•	Hair: Short, spiky hair with a vibrant, electric blue colour.
+<b>Head:</b> Rounded head with a slightly angular jawline.<br>
+<b>Eyes:</b> Large, expressive eyes with a bright neon-green colour, slightly glowing.<br>
+<b>Hair:</b> Short, spiky hair with a vibrant, electric blue colour.
 
 Powers and Abilities
 •	Trail Dash: a high-speed dash that allows Rex to quickly traverse large gaps and evade hazards. Essential for maintaining momentum on slippery surfaces.
