@@ -22,7 +22,9 @@ Your work on Programming for 3D should include a third-person perspective.
 
 ### ​Target Audience
 
-Describe your core audience, including age, gender, platform and the other games they played. Include the same for a secondary audience, if relevant.
+Ages 10+
+Platformer enthusiasts
+Fans of adventure and fantasy games
 
 ### ​Game Influences
 
