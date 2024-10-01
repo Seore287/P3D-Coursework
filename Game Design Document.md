@@ -26,12 +26,6 @@ The main character embarks on a quest to save Lumina from the encroaching darkne
 - Dark Souls
 - Ratchet and Clank
 
-### ​Distinctive Features
-What makes this game different from other games?
-
-### ​Choice points
-If there is a branching narrative, what are the major points where the player has a choice to make? What are the implications of the choices made? Are there different endings to the game depending on the choices made?
-
 ## Game Characters
 ### Player Characters
 Main Character: Rex Luminar
@@ -127,8 +121,10 @@ Non-diegetic sound is audio that does not emanate directly from the action. It i
 
 ## Graphical User Interface
 ### ​Maps and Views
-
-What maps and views are available to the player?
+- Mini map: a small map displayed on the screen providing an overview of the player's surroundings.
+- World Map: players get acesss to a bigger map from the pause or inventory menu. It provides an overview of the entire realm, displaying objectives and player's current location.
+- Third Person Camera: gives players a perspective of their surroundings. The camera is adjustable with the players able to control it manually using the mouse/right stick when navigating the terrain.
+- HUD Elements: this includes the health bar, ability status icons and a Trailshard counter.
 
 ### ​Heads Up Display (HUD)
 - Health Bar: Displays Rex’s current health.
