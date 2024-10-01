@@ -22,14 +22,6 @@ Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
 ###  ​The Storyline
 The main character embarks on a quest to save Lumina from the encroaching darkness of the Void Weaver. Guided by his grandfather Arion, Rex must travel through distinct realms, learning about his elemental powers and restoring light to Lumina.
 
-### ​The Premise
-
-What is the situation before the game starts? What does the player need to know to understand the fantasy context in which the game takes place?
-
-### ​In-game Narrative
-
-How does the story move along during the game? What is the player trying to achieve, and what are the major events that take place between the start and end?
-
 ### ​Game Influences
 
 State the key game influences, including other games, books, films, TV, etc.
@@ -58,16 +50,29 @@ If there is a branching narrative, what are the major points where the player ha
 The player characters, enemies, and allies are described below.
 
 ### Player Characters
+Main Character: Rex Luminar
 
-What characters or other controlled devices, e.g., groups of creatures, cars, shapes, etc., does the player take control of? What are the player character's key features/capabilities, and do these change over the course of the game?
+Appearance
+•	Head: Rounded head with a slightly angular jawline.
+•	Eyes: Large, expressive eyes with a bright neon-green colour, slightly glowing.
+•	Hair: Short, spiky hair with a vibrant, electric blue colour.
+
+Powers and Abilities
+•	Trail Dash: a high-speed dash that allows Rex to quickly traverse large gaps and evade hazards. Essential for maintaining momentum on slippery surfaces.
+•	Light Leap: a charged jump that enables Rex to reach higher platforms and clear obstacles. Requires precise timing for maximum effect.
+•	Shield: a temporary barrier that deflects attacks and reflects projectiles. Activated to protect against enemy fire and environmental hazards.
+•	Energy Boost: temporarily enhances Rex’s abilities, making him stronger and faster. Activated by collecting energy orbs.
+•	Phantom Pulse: An energy wave used to interact with the environment, activate switches, and stun enemies. 
 
 ### Enemies
-
-What are the opposing forces in the game? If the obstacles are not purely environmental, who are the enemy non-player characters (NPCs), what dangers do they face, and how can they be defeated, etc.?
+•	Shadow Beasts: Larger, slower enemies with heavy attacks and high health.
+•	Spectral Bats: Flying enemies that swoop down to attack from above.
+•	Voidlings: Small, agile creatures that swarm and attack in groups.
 
 ### Allies
-
-Does the player have allies in the game? If so, what are their characteristics, how can they help, and is teaming up with friendly NPCs essential or optional?
+•	Elder Lyra: a wise sage in the Sparkling Peaks who provides guidance and lore about Lumina’s history.
+•	Zara the Botanist: a knowledgeable explorer in the Luminous Jungle, who assists Rex and provides insights into the flora and fauna.
+•	Orin the Miner: a rugged, resourceful NPC in the Radiant Abyss who helps Rex navigate the treacherous underground terrain.
 
 ## ​Environment
 
