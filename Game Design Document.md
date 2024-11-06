@@ -4,10 +4,10 @@ This is a 3D platformer open world game set in the magical world of Lumina. Play
 
 ## Game Overview
 ### Concept
-The game combines fast paced platforming with a rich storyline and intricate challenges. Players will explore open world, diverse realms utilizing unique abilities.
+The game combines fast paced platforming with a rich storyline and intricate challenges. Players will explore open world scenes, using unique abilities.
 
 ### ​Genre/Theme
-This is a 3D action-adventure platforming game that also features some puzzle solving.
+This is a 3D action-adventure game that also features some quest system.
 
 ### Platform
 PC (Windows, macOS)
@@ -29,7 +29,6 @@ The main character embarks on a quest to save Lumina from the encroaching darkne
 ## Game Characters
 ### Player Characters
 Main Character: Rex Luminar
-
 Appearance: 
 - Head: rounded head with a slightly angular jawline.
 - Eyes: large, expressive eyes with a bright neon-green colour, slightly glowing.
