@@ -1,6 +1,6 @@
 # Phantom Trails GDD
 ## Executive Summary
-This is a 3D plaatformer open world game set in the magical world of Lumina. Players gain control of Rex Luminar, a Trailblazer Explorer, on a quest to restore balance by defeating the invincible Void Weaver. The game features vibrant environments, dynamic powers, and engaging narrative elements that blend exploration and combat.
+This is a 3D platformer open world game set in the magical world of Lumina. Players gain control of Rex Luminar, a Trailblazer Explorer, on a quest to restore balance by defeating the invincible Void Weaver. The game features vibrant environments, dynamic powers, and engaging narrative elements that blend exploration and combat.
 
 ## Game Overview
 ### Concept
