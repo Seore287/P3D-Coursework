@@ -1,38 +1,36 @@
 # Phantom Trails GDD
 ## Executive Summary
-This is a 3D platformer open world game set in the magical world of Lumina. Players gain control of Rex Luminar, a Trailblazer Explorer, on a quest to restore balance by defeating the invincible Void Weaver. The game features vibrant environments, dynamic powers, and engaging narrative elements that blend exploration and combat.
+This is a 3D RPG action adventure game set in the mystical world of Luminar. Players take on the role of Talin Draven, a skilled and determined Trailblazer, as he journeys acrosss landscapes to restore balance by defeating the sinister Void Weaver. With vibrant environments, elemental powers, and a rich narrative, Phantom Trails offers an immersive blend of exploration, combat, and character growth.
 
 ## Game Overview
 ### Concept
-The game combines fast paced platforming with a rich storyline and intricate challenges. Players will explore open world scenes, using unique abilities.
+The game combines fast-paced action adevnture gameplay with an emotionally exapnsive open-world realms, unlock abilities, solve quests and combat dynamic enemies as they uncover various secrets.
 
 ### ​Genre/Theme
-This is a 3D action-adventure game that also features some quest system.
+This is a 3D RPG action-adventure game that also features some quest system, exploration and magical elements.
 
 ### Platform
-PC (Windows, macOS)
-Console (Playstation, Xbox)
+PC (Windows, macOS) and Console (Playstation, Xbox)
 
 ### ​Target Audience
-Ages 10+, Platformer enthusiasts, and Fans of adventure and fantasy games.
+Ages 10+, fans of RPGs, adventure games, and fantasy worlds.
 
 ## Narrative
 ###  ​The Storyline
-The main character embarks on a quest to save Lumina from the encroaching darkness of the Void Weaver. Guided by his grandfather Arion, Rex must travel through distinct realms, learning about his elemental powers and restoring light to Lumina.
+Talin Draven, the protagonist, embarks on a mission to save his homeland from darkness brought by the Void Weaver. With guidance from his wise grandfather, Arion, Talin learns to weild elemental powers and journeys through distinct realms, each with its own mysteries and challenges, as he seeks to restore light of Luminar.
 
 ### ​Game Influences
-- Portal
+- Elden Ring
 - The Legend of Zelda
-- Dark Souls
+- Palworld
 - Ratchet and Clank
 
 ## Game Characters
 ### Player Characters
-Main Character: Rex Luminar
+Main Character: Talin Draven
 Appearance: 
-- Head: rounded head with a slightly angular jawline.
-- Eyes: large, expressive eyes with a bright neon-green colour, slightly glowing.
-- Hair: short, spiky hair with a vibrant, electric blue colour.
+- Talin has a sharp, chiseled jawline with a warm, yet intense expression. His eyes are a deep emerald green, carrying a subtle glow that hints at his connection to mystical powers. His hair is shoulder-length, dark auburn, and slightly wavy, often tied back to keep it out of his face during his explorations. Talin wears a mix of rugged leather and lightweight armor, adorned with markings from his homeland, giving him a grounded yet otherworldly presence.
+- Role: Talin is a brave explorer with an unwavering sense of duty. His journey not only tests his physical strength but also sharpens his wisdom, as he learns to wield ancient powers that connect him to the world of Luminar.
 
 ### Enemies
 - Shadow Beasts: larger, slower enemies with heavy attacks and high health.
@@ -90,21 +88,20 @@ The game takes place across five realms within the game world, each with distinc
 - Puzzle Solving: each level includes evironmental puzzles that require players to interact with switches, moving objects, and mnanipulate energy flows. The characters ability is critical in enhancing light based mechanisms or gravity related objects.
 - Exploration: players are encouraged to explore branching paths and hidden areas within each level. Collecting 'Trailshards' and artefacts will enhance the players abilities, allowing players to unlock new areas and tackle more complex challenges.
 
-### ​Movement
-The characters movement within the game is fast paced and fluid, with emphasis on precision and timing.
+### ​Movement and Abilities
 - Basic Movement: players use the standard controls to walk, run, jump, and interact with the environment. All other details can be seen in above (Game Controls).
-- Trail Dash: an abiility that enables the player to dash at high speeds, helping him traverse large gaps and evade enemies.
-- Light Leap: this is a charged jump that is used to reach higher platforms.
-- Energy Currents: able to energy currents that can cary him across gaps or up vertical shafts, introducing new forms of movement and added complexity.
+- Solar Slash: Unleashes a powerful swing that deals extra holy damage to dark-aligned enemies.
+- Flame Wave – Cleaves the air, sending a wave of fire forward to burn multiple enemies.
+- Arcade Barrage: Fires a rapid series of arcane bolts, each homing in on enemies.
+- Stormcall: Slams the ground to summon a localized storm, dealing area-of-effect lightning damage.
 
-As the playuer makes progress through the game, the game intensifies, integrating new abilities and unlocking new areas within the game.
 
 ### ​Weapons
-- Phantom Pulse: this is a primary ability that the character has. The energy wave is used to interact with environmental elements, activate switches, and stun enemies. It serves as both a tool for puzzle-solving and combat.
-- Prism Shield: this is not a weapon but it is used to reflect projectiles and protectfrom attacks, offering a defensive combat mechanic.
-- Energy Boost: collecting energy orbs can temporarily boost abilities, making him stronger and faster during combat or difficult platforming sections.
+- Soulforged Blade: a dark slender blade that glows with ethereal energy.
+- Thunderstrike Hammer: heavy duty weapon thats fused with electric energy, with rune symbols ertched around them.
+- Emberhand Axe: imbued with fiery enchantments, glowing around the edges. 
 
-Upgrades: throughout the game, Rex can collect artifacts and Trailshards that enhance his abilities. The upgrades improve the duration, strength, or effectiveness of the players powers, but no traditional ammunition system is in place. Instead, Rex’s abilities recharge over time or are powered by collecting energy items.
+
 
 ### ​Inventory
 Is there an inventory system? If so, how does it work and how is it accessed?
@@ -126,7 +123,7 @@ Non-diegetic sound is audio that does not emanate directly from the action. It i
 - HUD Elements: this includes the health bar, ability status icons and a Trailshard counter.
 
 ### ​Heads Up Display (HUD)
-- Health Bar: Displays Rex’s current health.
+- Health Bar: Displays Talin’s current health.
 - Ability Icons: Shows available abilities and their status.
 - Trailshards Counter: Tracks collected Trailshards.
 - Mini-Map: Provides a small, situational overview of the player’s location.
