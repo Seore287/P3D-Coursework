@@ -4,7 +4,7 @@ This is a 3D RPG action adventure game set in the mystical world of Luminar. Pla
 
 ## Game Overview
 ### Concept
-The game combines fast-paced action adevnture gameplay with an emotionally exapnsive open-world realms, unlock abilities, solve quests and combat dynamic enemies as they uncover various secrets.
+The game combines fast-paced action adevnture gameplay with an emotionally expansive open-world realms, unlock abilities, solve quests and combat dynamic enemies as they uncover various secrets.
 
 ### ​Genre/Theme
 This is a 3D RPG action-adventure game that also features some quest system, exploration and magical elements.
@@ -38,14 +38,14 @@ Main Character: Talin Draven
 
 ### Allies
 - Elder Lyra: a wise sage in the Sparkling Peaks who provides guidance and lore about Lumina’s history.
-- The Botanist: a knowledgeable explorer in the Luminous Jungle, who assists Rex and provides insights into the flora and fauna.
-- Orin the Miner: a rugged, resourceful NPC in the Radiant Abyss who helps Rex navigate the treacherous underground terrain.
+- The Botanist: a knowledgeable explorer in the Luminous Jungle, who assists Talin and provides insights into certain areas of the game scene.
+- Orin the Miner: a rugged, resourceful NPC in the Radiant Abyss who helps the player navigate the treacherous underground terrain.
 
 ## Gameplay Mechanics
 ### ​Game Structure
 - Sparkling Peaks: icy slopes, slippery surfaces, and crystaline caves filled with environmental hazards like falling icicles and strong winds.
 - Radiant Abyss: an underground realm with phosphorescent crystals, floating platforms, and gravity-defying puzzles.
-- Luminous Jungle: a dense rainforest with bioluminscent flora and hidden paths.
+- Luminous Jungle: a dense rainforest with bioluminscent and hidden paths.
 - Shimmering Desert: a vast desert with ancient ruins.
 
 ### Game Controls
