@@ -92,16 +92,12 @@ The game takes place across five realms within the game world, each with distinc
 - Basic Movement: players use the standard controls to walk, run, jump, and interact with the environment. All other details can be seen in above (Game Controls).
 - Solar Slash: Unleashes a powerful swing that deals extra holy damage to dark-aligned enemies.
 - Flame Wave – Cleaves the air, sending a wave of fire forward to burn multiple enemies.
-- Arcade Barrage: Fires a rapid series of arcane bolts, each homing in on enemies.
 - Stormcall: Slams the ground to summon a localized storm, dealing area-of-effect lightning damage.
 
-
 ### ​Weapons
-- Soulforged Blade: a dark slender blade that glows with ethereal energy.
-- Thunderstrike Hammer: heavy duty weapon thats fused with electric energy, with rune symbols ertched around them.
-- Emberhand Axe: imbued with fiery enchantments, glowing around the edges. 
-
-
+- Eclipse Blade: a longsword forged from celestial metal that shimmers in the light, shifting between radiant silver and dark obsidian. Upgrades: Increased critical hit chance, chance to blind enemies, added fire or light damage.
+- Thunderstrike Hammer: heavy duty weapon thats fused with electric energy, with rune symbols ertched around them. Upgrades: Increased shock radius, chance to paralyze enemies, adds chain lightning effect to hits.
+- Emberhand Axe: imbued with fiery enchantments, glowing around the edges. Upgrades: Higher burn duration, larger flame wave, chance to ignite surrounding enemies on impact.
 
 ### ​Inventory
 Is there an inventory system? If so, how does it work and how is it accessed?
@@ -123,12 +119,11 @@ Non-diegetic sound is audio that does not emanate directly from the action. It i
 - HUD Elements: this includes the health bar, ability status icons and a Trailshard counter.
 
 ### ​Heads Up Display (HUD)
-- Health Bar: Displays Talin’s current health.
-- Ability Icons: Shows available abilities and their status.
-- Trailshards Counter: Tracks collected Trailshards.
-- Mini-Map: Provides a small, situational overview of the player’s location.
+- Mini-Map: provides a small, situational overview of the player’s location.
+- World Map: accessible from the pause menu, showing the entrie map, displaying game objectives, and the players current location.
+- HUD Elements: health bar and ability status.
+- Inventory Menu: displays collected items and available upgrades.
 
 ### ​Menus
 - Main Menu: Options for starting a new game, loading a saved game, settings, and credits.
 - Pause Menu: Resume game, options, controls, and quit to main menu.
-- Inventory: Displays collected items, artifacts, and upgrades.
