@@ -43,7 +43,6 @@ Main Character: Talin Draven
 
 ## Gameplay Mechanics
 ### ​Game Structure
-The game takes place across five realms within the game world, each with distinctive visuals and gameplay elements:
 - Sparkling Peaks: icy slopes, slippery surfaces, and crystaline caves filled with environmental hazards like falling icicles and strong winds.
 - Radiant Abyss: an underground realm with phosphorescent crystals, floating platforms, and gravity-defying puzzles.
 - Luminous Jungle: a dense rainforest with bioluminscent flora and hidden paths.
@@ -63,11 +62,11 @@ The game takes place across five realms within the game world, each with distinc
 ### ​Levels and Locations
 1. Sparkling Peaks
    - Theme: Icy, crystalline environment.
-   - Features: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Rex's 'Trail Dash' ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
+   - Features: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Talin's ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
    
 2. Radiant Abyss
    - Theme: Underground caverns illuminated by phosphorescent crystals.
-   - Features: Floating platforms, gravity-defying puzzles, and energy currents challenge the player's spatial awareness. This level incorporates Rex's Phantom Pulse ability to interact with glowing crystals, activate switches, and defeat enemies. The cavernous environment is dark and mysterious, with the glow of the crystals guiding players through the labyrinthine paths.
+   - Features: Floating platforms, gravity-defying puzzles, and energy currents challenge the player's spatial awareness. This level incorporates Talin's ability to interact with glowing crystals, activate switches, and defeat enemies. The cavernous environment is dark and mysterious, with the glow of the crystals guiding players through the labyrinthine paths.
 
 3. Luminous Jungle
    - Theme: A dense, bioluminescent rainforest.
@@ -99,7 +98,7 @@ The game takes place across five realms within the game world, each with distinc
 - Emberhand Axe: imbued with fiery enchantments, glowing around the edges. Upgrades: Higher burn duration, larger flame wave, chance to ignite surrounding enemies on impact.
 
 ### ​Inventory
-Is there an inventory system? If so, how does it work and how is it accessed?
+This will help the player store weapons, accessories and consumables. However, a sort of resource systsem will be included with the game, as the player would have to go on quests within the game. There will also be a quick access menu and a capacity management for each item placed there.
 
 ## Sound
 ### Diegetic
