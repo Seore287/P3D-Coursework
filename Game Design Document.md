@@ -28,8 +28,7 @@ Talin Draven, the protagonist, embarks on a mission to save his homeland from da
 ## Game Characters
 ### Player Characters
 Main Character: Talin Draven
-Appearance: 
-- Talin has a sharp, chiseled jawline with a warm, yet intense expression. His eyes are a deep emerald green, carrying a subtle glow that hints at his connection to mystical powers. His hair is shoulder-length, dark auburn, and slightly wavy, often tied back to keep it out of his face during his explorations. Talin wears a mix of rugged leather and lightweight armor, adorned with markings from his homeland, giving him a grounded yet otherworldly presence.
+- Appearance: Talin has a sharp, chiseled jawline with a warm, yet intense expression. His eyes are a deep emerald green, carrying a subtle glow that hints at his connection to mystical powers. His hair is shoulder-length, dark auburn, and slightly wavy, often tied back to keep it out of his face during his explorations. Talin wears a mix of rugged leather and lightweight armor, adorned with markings from his homeland, giving him a grounded yet otherworldly presence.
 - Role: Talin is a brave explorer with an unwavering sense of duty. His journey not only tests his physical strength but also sharpens his wisdom, as he learns to wield ancient powers that connect him to the world of Luminar.
 
 ### Enemies
