@@ -78,7 +78,7 @@ Main Character: Talin Draven
 
 5. Celestial Oasis
    - Theme: A mystical sanctuary with celestial bodies.
-   - Features: The Celestial Oasis is a serene, dreamlike location with floating islands and cosmic energy flows. The level's design emphasizes platforming challenges that test the player's mastery of Rex's abilities in a tranquil yet surreal environment.
+   - Features: The Celestial Oasis is a serene, dreamlike location with floating islands and cosmic energy flows. The level's design emphasizes platforming challenges that test the player's mastery of the players abilities in a tranquil yet surreal environment.
 
 ### ​Mechanics
 - Platforming: players will control the character as he navigates through challenging terrains, including slippery surfaces, floating platforms, and narrow ledges. 
