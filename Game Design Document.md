@@ -1,23 +1,23 @@
 # Phantom Trails GDD
 ## Executive Summary
-This is a 3D RPG action adventure game set in the mystical world of Luminar. Players take on the role of Talin Draven, a skilled and determined Trailblazer, as he journeys acrosss landscapes to restore balance by defeating the sinister Void Weaver. With vibrant environments, elemental powers, and a rich narrative, Phantom Trails offers an immersive blend of exploration, combat, and character growth.
+The player assumes the role of an amnesiac explorer who must traverse an ethereal, ever-shifting world to uncover the truth about their forgotten past. Along the way, they will solve environmental puzzles, interact with spectral beings, and reclaim fragments of their lost identity.
 
 ## Game Overview
 ### Concept
 The game combines fast-paced action adevnture gameplay with an emotionally expansive open-world realms, unlock abilities, solve quests and combat dynamic enemies as they uncover various secrets.
 
 ### ​Genre/Theme
-This is a 3D RPG action-adventure game that also features some quest system, exploration and magical elements.
+Adventure, Puzzle, Mystery.
 
 ### Platform
 PC (Windows, macOS) and Console (Playstation, Xbox)
 
 ### ​Target Audience
-Ages 10+, fans of RPGs, adventure games, and fantasy worlds.
+Ages 10+, fans who enjoy immersive narratives and exploration.
 
 ## Narrative
 ###  ​The Storyline
-Talin Draven, the protagonist, embarks on a mission to save his homeland from darkness brought by the Void Weaver. With guidance from his wise grandfather, Arion, Talin learns to weild elemental powers and journeys through distinct realms, each with its own mysteries and challenges, as he seeks to restore light of Luminar.
+The player awakens in a ghostly realm called The Veil, a world caught between life and death. A cryptic figure named The Whisperer tasks you with uncovering the secrets of the realm to escape. As you gather Memory Fragments, you piece together your life story, ultimately facing a choice: embrace your true identity and leave The Veil or stay to mend the fractured souls trapped within.
 
 ### ​Game Influences
 - Elden Ring
@@ -27,27 +27,38 @@ Talin Draven, the protagonist, embarks on a mission to save his homeland from da
 
 ## Game Characters
 ### Player Characters
-Main Character: Talin Draven
-- Appearance: Talin has a sharp, chiseled jawline with a warm, yet intense expression. His eyes are a deep emerald green, carrying a subtle glow that hints at his connection to mystical powers. His hair is shoulder-length, dark auburn, and slightly wavy, often tied back to keep it out of his face during his explorations. Talin wears a mix of rugged leather and lightweight armor, adorned with markings from his homeland, giving him a grounded yet otherworldly presence.
-- Role: Talin is a brave explorer with an unwavering sense of duty. His journey not only tests his physical strength but also sharpens his wisdom, as he learns to wield ancient powers that connect him to the world of Luminar.
+Main Character: Kaelin Draven
+- A mysterious individual trapped in The Veil, their identity is revealed through the fragments they collect. 
 
 ### Enemies
-- Shadow Beasts: larger, slower enemies with heavy attacks and high health.
-- Spectral Bats: flying enemies that swoop down to attack from above.
-- Voidlings: small, agile creatures that swarm and attack in groups.
+- Morvain: the great enemy within the game. 
+- Wraith Hunters: corrupted beings that have been trapped in the veil. 
+- Sentinels: small createures created by Morvain to guard certain areas of the scene.
 
 ### Allies
-- Elder Lyra: a wise sage in the Sparkling Peaks who provides guidance and lore about Lumina’s history.
-- The Botanist: a knowledgeable explorer in the Luminous Jungle, who assists Talin and provides insights into certain areas of the game scene.
-- Orin the Miner: a rugged, resourceful NPC in the Radiant Abyss who helps the player navigate the treacherous underground terrain.
+- Eryndor: A ghostly, hooded figure who appears to guide Kaelen through The Veil. Eryndor speaks cryptically and knows more about Kaelen’s past than they initially reveal. 
+- 
 
-## Gameplay Mechanics
-### ​Game Structure
-- Sparkling Peaks: icy slopes, slippery surfaces, and crystaline caves filled with environmental hazards like falling icicles and strong winds.
-- Radiant Abyss: an underground realm with phosphorescent crystals, floating platforms, and gravity-defying puzzles.
-- Luminous Jungle: a dense rainforest with bioluminscent and hidden paths.
-- Shimmering Desert: a vast desert with ancient ruins.
+## Core Gameplay
+### ​Gameplay Mechanics
+- Exploration: players explore a semi-open world divided into interconnected zones. Each area presents a unique aesthetic, challenges, and mysteries. 
+- Progression: players collect "Memory Fragments" hidden throughout the world to restore their identity and unlock new areas or abilities. Upgrades include enhanced vision (detect hidden objects), mobility (dash, wall climb), and interaction abilities.
+- Puzzle Solving: physics-based logic puzzles will be integrated into the environment, like activating ancient mechanisms.
 
+### Game Objectives and Rewards
+Short-Term Objectives:
+Solve puzzles to unlock pathways.
+Collect Memory Fragments and interact with key phantoms.
+
+Long-Term Objectives:
+Unravel the mystery of the player’s identity.
+Decide the fate of The Veil.
+
+Rewards:
+New abilities (e.g., phasing through walls).
+Story revelations through cutscenes and dialogue.
+Unlocking visually stunning new areas.
+  
 ### Game Controls
 - Movement: WASD / Left Stick
 - Jump: Space / A button
@@ -59,32 +70,11 @@ Main Character: Talin Draven
 - Interact: F / X button
 - Camera Control: Mouse / Right Stick
 
-### ​Levels and Locations
-1. Sparkling Peaks
-   - Theme: Icy, crystalline environment.
-   - Features: Players traverse slippery slopes, navigate crystalline caves, and face environmental hazards like falling icicles and strong winds. The level requires the use of Talin's ability to maintain momentum and avoid hazards. The area includes both straightforward platforming and more complex, timing-based challenges.
-   
-2. Radiant Abyss
-   - Theme: Underground caverns illuminated by phosphorescent crystals.
-   - Features: Floating platforms, gravity-defying puzzles, and energy currents challenge the player's spatial awareness. This level incorporates Talin's ability to interact with glowing crystals, activate switches, and defeat enemies. The cavernous environment is dark and mysterious, with the glow of the crystals guiding players through the labyrinthine paths.
-
-3. Luminous Jungle
-   - Theme: A dense, bioluminescent rainforest.
-   - Features: This level features vibrant flora and fauna that glow in the dark. Players must explore the jungle's secret pathways, solve light-based puzzles, and interact with the environment to progress. The jungle also holds hidden ancient tablets that provide insights into Lumina’s past.
-
-4. Shimmering Desert
-   - Theme: A vast, ancient desert filled with ruins.
-   - Features: This level challenges players with shifting sands, hidden temples, and ancient traps. Players must navigate through treacherous desert landscapes and solve puzzles tied to the ruins' ancient mechanisms.
-
-5. Celestial Oasis
-   - Theme: A mystical sanctuary with celestial bodies.
-   - Features: The Celestial Oasis is a serene, dreamlike location with floating islands and cosmic energy flows. The level's design emphasizes platforming challenges that test the player's mastery of the players abilities in a tranquil yet surreal environment.
-
-### ​Mechanics
-- Platforming: players will control the character as he navigates through challenging terrains, including slippery surfaces, floating platforms, and narrow ledges. 
-- Combat: this integrated into the game experience, with enemies appearing as obstacles within levels.
-- Puzzle Solving: each level includes evironmental puzzles that require players to interact with switches, moving objects, and mnanipulate energy flows. The characters ability is critical in enhancing light based mechanisms or gravity related objects.
-- Exploration: players are encouraged to explore branching paths and hidden areas within each level. Collecting 'Trailshards' and artefacts will enhance the players abilities, allowing players to unlock new areas and tackle more complex challenges.
+### ​World and Level Design
+1. The Shrouded Forest: a misty woodland filled with glowing trees and spectral wildlife.
+2. The Crumbling Citadel: a decayed castle suspended in time, with puzzles involving collapsing floors and rotating corridors.
+3. The Abyssal Peaks: snowy mountains cloaked in an eternal storm.
+4. The Luminous Cavern: underground caves glowing with bioluminescent crystals, hosting reflective puzzles.
 
 ### ​Movement and Abilities
 - Basic Movement: players use the standard controls to walk, run, jump, and interact with the environment. All other details can be seen in above (Game Controls).
@@ -102,12 +92,12 @@ This will help the player store weapons, accessories and consumables. However, a
 
 ## Sound
 ### Diegetic
-
-Diegetic sound emanates directly from the action within the game; hence, it's sometimes referred to as 'actual sound'. Its origin is the Greek diḗgēsis, meaning 'narration, narrative'.
+Atmospheric and haunting, featuring ambient strings, choral vocals, and subtle electronic undertones.
 
 ### Non-diegetic
-
-Non-diegetic sound is audio that does not emanate directly from the action. It is used to create exaggerated effects that add to the drama.
+Echoing footsteps
+Whispers in the wind
+Resonant chimes for spectral interactions
 
 ## Graphical User Interface
 ### ​Maps and Views
