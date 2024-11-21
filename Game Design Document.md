@@ -37,7 +37,7 @@ Main Character: Kaelin Draven
 
 ### Allies
 - Eryndor: A ghostly, hooded figure who appears to guide Kaelen through The Veil. Eryndor speaks cryptically and knows more about Kaelen’s past than they initially reveal. 
-- 
+- Amara (The Healer):  essentially restores power to the protagonist when called upon.
 
 ## Core Gameplay
 ### ​Gameplay Mechanics
