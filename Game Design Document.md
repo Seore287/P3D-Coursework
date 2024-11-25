@@ -31,13 +31,24 @@ Main Character: Kaelin Draven
 - A mysterious individual trapped in The Veil, their identity is revealed through the fragments they collect. 
 
 ### Enemies
-- Morvain: the great enemy within the game. 
-- Wraith Hunters: corrupted beings that have been trapped in the veil. 
-- Sentinels: small createures created by Morvain to guard certain areas of the scene.
+Elder Shadowroot
+- Phase 1: Corrupted Treant
+Attacks with massive sweeping strikes and root-based AoEs.
+Summons Shadow Wolves to distract the player.
+- Phase 2: Unleashed Corruption
+Breaks apart into a spectral form, summoning shadow tendrils to strike from the ground.
+Envelops the arena in darkness, limiting visibility and requiring the player to use light-based abilities.
+- Phase 3: Final Stand
+Combines physical and spectral forms, alternating between heavy melee and ranged corruption attacks.
+Arena hazards include collapsing terrain and spreading corruption zones.
+Reward: Cleansing the forest restores light to the region, unlocking a new sword ability or enhancing the player's existing power.
+
+Shadow Wolves: Agile enemies that attack in packs, coordinating to surround the player. 
+Treant Guardians: Slow-moving but heavily armored. 
+Phantom Wisps: Hovering spectral enemies that attack from a distance.
 
 ### Allies
 - Eryndor: A ghostly, hooded figure who appears to guide Kaelen through The Veil. Eryndor speaks cryptically and knows more about Kaelen’s past than they initially reveal. 
-- Amara (The Healer):  essentially restores power to the protagonist when called upon.
 
 ## Core Gameplay
 ### ​Gameplay Mechanics
